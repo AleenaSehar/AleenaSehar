@@ -58,18 +58,18 @@ Typed React/Next.js front ends over FastAPI/Node APIs, with real auth, Postgres/
 
 <p align="center">
   <a href="https://github.com/AleenaSehar/Retell-replica">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=AleenaSehar&repo=Retell-replica&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=AleenaSehar&repo=Retell-replica&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/AleenaSehar/lantern-rag">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=AleenaSehar&repo=lantern-rag&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=AleenaSehar&repo=lantern-rag&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/AleenaSehar/Lead-generation">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=AleenaSehar&repo=Lead-generation&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=AleenaSehar&repo=Lead-generation&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/AleenaSehar/SkyWatch">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=AleenaSehar&repo=SkyWatch&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=AleenaSehar&repo=SkyWatch&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -94,16 +94,19 @@ Typed React/Next.js front ends over FastAPI/Node APIs, with real auth, Postgres/
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AleenaSehar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleenaSehar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AleenaSehar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=AleenaSehar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleenaSehar&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AleenaSehar&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AleenaSehar&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleenaSehar/AleenaSehar/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AleenaSehar/AleenaSehar/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
